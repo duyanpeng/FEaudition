@@ -67,7 +67,11 @@
 + Q:buffer?
 + Q:process?
 ## linux
-
++ Q:linux权限?
++ Q:nginx?
++ Q:docker?
++ Q:git?
++ Q:redies?
 ## 算法
 
 ## 未来
