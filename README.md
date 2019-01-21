@@ -61,6 +61,10 @@
 + Q:webpack性能优化?
 + Q:如何写一个loader?
 + Q:如何写一个插件?
+## 可视化
++ Q:canvas?
++ Q:svg?
++ Q:d3?
 ## node
 + Q:commonJS规范?
 + Q:koa vs express?
