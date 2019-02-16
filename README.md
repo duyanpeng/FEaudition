@@ -47,6 +47,8 @@
 + Q:换肤功能?
 ## react
 + Q:16 vs 15?
++ Q:react优化?
++ Q:react diff?
 + Q:redux?
 + Q:setState?
 + Q:react中的key与vue中的key比较?
